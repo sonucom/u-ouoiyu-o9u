@@ -1,0 +1,14 @@
+.main{
+    background-color: gra;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    align-items: center;
+
+}
+.itmes{
+    background-color: red;
+    height: 100px; 
+    width:50% ;
+   
+}
